@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Vianofc/botwa)](https://repl.it/github/Vianofc/botwa)
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yahallo minna!
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77515527/106854697-fce66b80-6678-11eb-905d-2b2e1d9bb973.jpg"
@@ -27,6 +29,6 @@
    "Contact Me On"
   <div align="center">
   
-[![Run on Repl.it](https://repl.it/badge/Vianofc/botwa/whatsapp-bot)](https://repl.it/github/Vianofv/botwa) 
+
   
   
