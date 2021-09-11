@@ -1,1 +1,1 @@
-Worker: node luc
+Worker: npm start
