@@ -1,7 +1,21 @@
 {
   "name": "whatsapp-bot",
-  "description": "whatsapp bot build with nodejs",
+  "description": "[wabot-adi] Thank you for using this script",
   "repository": "https://github.com/Vianofc/botwa",
   "logo": "https://api.zeks.xyz/logo.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
 }
